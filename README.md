@@ -1,7 +1,12 @@
 # Olá, eu sou o André Canuto 👋 
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação!<br>
-Este é o meu espaço no GitHub, onde transformo ideias e criatividade em código.
+Desenvolvedor Frontend desde 2016. Iniciei em agências de marketing, onde me especializei na criação de sites com WordPress e no design de landing pages otimizadas para SEO.
+Atualmente, trabalho em ambientes de startup, contribuindo como desenvolvedor front-end em projetos inovadores e inspiradores.
+
+Falante nativo de português mas possuo nível B2 de proficiência em inglês (First Certificate) e conhecimento básico de espanhol.
+Possuo certificações em Vue.js, Angular e JavaScript pela Coodash.
+
+Reconhecido por ser criativo, habilidades de comunicação, dedicação, proatividade e escuta atenta, entrego resultados de alta qualidade de forma consistente.
 
 ---
 
