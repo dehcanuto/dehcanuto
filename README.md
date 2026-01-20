@@ -73,13 +73,6 @@ Este é o meu espaço no GitHub, onde transformo ideias e criatividade em códig
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 </div>
 
-#### 🎧 Outros
-<div>
-  <img src="https://img.shields.io/badge/Kontakt%20VST-FFCC00?style=for-the-badge&logo=musicbrainz&logoColor=black">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
-</div>
-
 ---
 
 ### 📊 Minhas Estatísticas:
